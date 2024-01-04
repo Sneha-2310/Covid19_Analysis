@@ -1,4 +1,5 @@
-<img width="409" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/afb1ea64-4d79-40aa-a56d-70dc693d6969">Covid-19 Data Analysis
+Covid-19 Data Analysis
+
 Table of Contents
 Project Overview
 Data Sources
@@ -40,10 +41,10 @@ select (SUM(Recovered)/SUM(Confirmed))*100 AS mortality_rate from coviddata
 This gives us the global average recovery rate
 
 
-<img width="308" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/dd2ed37d-fa42-43cc-ad16-8a27e657bc9c">
+<img width="309" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/dd2ed37d-fa42-43cc-ad16-8a27e657bc9c">
 The data aligns with the one calculated in the PowerBI Dashboard.
 .
-<img width="307" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/97f7ff0b-10ec-4eb8-9ec7-40be2652e3b5">
+<img width="309" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/97f7ff0b-10ec-4eb8-9ec7-40be2652e3b5">
 
  Next, we made a dashboard of this data as shown below
 
