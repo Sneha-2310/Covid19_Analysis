@@ -46,9 +46,9 @@ This gives us the global average recovery rate
 The data aligns with the one calculated in the PowerBI Dashboard.
 .<br>
 <img width="409" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/97f7ff0b-10ec-4eb8-9ec7-40be2652e3b5">
-<br><br><br>
+<br><br>
  Next, we made a dashboard of this data as shown below
-
+<br>
 <img width="555" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/08d29399-814a-45b4-a04e-6d8dda949a96">
 
 The dashboard provides us a dynamic insight to the data of each country seprately. We have alsoadded a search visual for that purpose.
