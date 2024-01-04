@@ -25,7 +25,7 @@ Data loading and inspection.<br>
 Handling missing values.<br>
 Data cleaning and formatting.<br>
 <br><br>
-Data Analysis<br>
+Data Analysis<br><br>
 SQL CODE: <br>
 <br>
 USE covid;<br>
@@ -34,7 +34,7 @@ select (SUM(Death)/SUM(Confirmed))*100 AS mortality_rate from coviddata
 <img width="409" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/fdb278e4-6567-4d69-952c-a8b2ceb1255e">
 <br>
 This gives us the global average  mortality rate
-<br>
+<br><br>
 USE covid;<br>
 select (SUM(Recovered)/SUM(Confirmed))*100 AS mortality_rate from coviddata
 <br>
