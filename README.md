@@ -19,7 +19,7 @@ Excel - Data Cleaning<br>
 SQL Server - Data Analysis<br>
 PowerBI - Creating reports<br>
 Data Cleaning/Preparation<br>
-
+<br>
 In the initial data preparation phase, we performed the following tasks:<br>
 Data loading and inspection.<br>
 Handling missing values.<br>
@@ -43,19 +43,19 @@ select (SUM(Recovered)/SUM(Confirmed))*100 AS mortality_rate from coviddata
 This gives us the global average recovery rate
 <br><br>
 <img width="409" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/dd2ed37d-fa42-43cc-ad16-8a27e657bc9c">
-<br>
+<br><br>
 The data aligns with the one calculated in the PowerBI Dashboard.
-.<br>
+<br><br>
 <img width="409" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/97f7ff0b-10ec-4eb8-9ec7-40be2652e3b5">
 <br><br>
  Next, we made a dashboard of this data as shown below
 <br>
 <img width="555" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/08d29399-814a-45b4-a04e-6d8dda949a96">
-<br>
+<br><br>
 The dashboard provides us a dynamic insight to the data of each country seprately. We have alsoadded a search visual for that purpose.
-<br>
+<br><br>
 <img width="555" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/2a80ecfa-0c00-46be-b04f-43b12719a8e4">
-<br>
+<br><br>
 Recommendations:<br>
 We can conclude that United state has been most affected by the pandemic. The mortality and contengency rate could be compared using the dashboard <br>
 and preventive measures should thus be taken accordingly. <br>
