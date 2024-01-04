@@ -38,15 +38,15 @@ USE covid;
 select (SUM(Recovered)/SUM(Confirmed))*100 AS mortality_rate from coviddata
 
 <img width="409" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/9ba21bf9-8ecf-4a26-aee5-cef1f29d51ce">
-This gives us the global average recovery rate
-
 <br>
+This gives us the global average recovery rate
+<br><br>
 <img width="409" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/dd2ed37d-fa42-43cc-ad16-8a27e657bc9c">
 <br>
 The data aligns with the one calculated in the PowerBI Dashboard.
 .<br>
 <img width="409" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/97f7ff0b-10ec-4eb8-9ec7-40be2652e3b5">
-
+<br><br><br>
  Next, we made a dashboard of this data as shown below
 
 <img width="555" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/08d29399-814a-45b4-a04e-6d8dda949a96">
