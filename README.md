@@ -27,9 +27,7 @@ Handling missing values.<br>
 Data cleaning and formatting.<br>
 <br><br>
 <h3>Data Analysis</h3>
-<br>
 <h4><u>SQL CODE:</u></h4>
-<br>
 USE covid;<br>
 select (SUM(Death)/SUM(Confirmed))*100 AS mortality_rate from coviddata
 <br><br>
@@ -57,7 +55,7 @@ The data aligns with the one calculated in the PowerBI Dashboard.
 <br><br>
 The dashboard provides us a dynamic insight to the data of each country seprately. We have also added a search visual for that purpose.
 <br><br>
-<img width="555" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/2a80ecfa-0c00-46be-b04f-43b12719a8e4">
+<img width="700" alt="image" src="https://github.com/Sneha-2310/Covid19_Analysis/assets/98509803/2a80ecfa-0c00-46be-b04f-43b12719a8e4">
 <br><br>
 <h3>Recommendations</h3>
 We can conclude that United state has been most affected by the pandemic.<br> The mortality and contengency rate could be compared using the dashboard <br>
