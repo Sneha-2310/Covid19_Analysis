@@ -1,7 +1,7 @@
 <h2><u>Covid-19 Data Analysis</u></h2>
 <hr>
 <h3>Table of Contents</h3>
-<ul><li>Project Overview<</li>
+<ul><li>Project Overview</li>
 <li>Data Sources</li>
 <li>Recommendations</li>
 </ul>
